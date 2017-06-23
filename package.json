@@ -1,0 +1,24 @@
+{
+  "name": "cheng",
+  "version": "1.0.0",
+  "description": "模特网",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangweishuo/chengdu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangweishuo/chengdu/issues"
+  },
+  "homepage": "https://github.com/yangweishuo/chengdu#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.2",
+    "gulp-minify-html": "^1.0.6"
+  }
+}
